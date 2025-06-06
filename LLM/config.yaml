@@ -1,0 +1,12 @@
+DATA_PATH: data
+# OPENAI_KEY:
+#below key1
+# OPENAI_KEY: 
+#below deepseek key1
+# OPENAI_KEY:
+#Bleow deepseek key2
+OPENAI_KEY: 
+
+
+PALM_KEY: none
+LOGIT_PATH: data/logits
